@@ -36,9 +36,9 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "chat-log": false,
+    "auto-reconnect": false,
+    "auto-reconnect-delay": 99999,
     "max-reconnect-delay": 120000
   },
   "movement": {
